@@ -13,7 +13,9 @@ Emoji Tool Pro 是一款用于 **Blender 中 MMD 角色表情动画**的插件�
 - **中文 Morph 分类与漫画特效**。形态键按区域分类，常见日文 Morph 有中文译名，可切换查看原名。脸红、星星眼等特效可单独预览和打帧。
 - **自动眨眼与音频转口型**。支持单次眨眼、自动眨眼和从音频生成口型。情绪操作默认保护眨眼和口型通道。
 - **自定义预设与映射**。可通过 JSON 导入和导出角色的 Morph 映射及情绪预设。
-![Uploading image.png…]()
+<img width="1749" height="1333" alt="image" src="https://github.com/user-attachments/assets/e786db53-d4b8-4d33-a504-5a3df682ea55" />
+<img width="1798" height="1278" alt="image" src="https://github.com/user-attachments/assets/122959f1-96a5-443b-8007-0b0f78cf5df5" />
+
 
 ## 下载与安装
 
